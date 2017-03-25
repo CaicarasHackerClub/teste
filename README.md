@@ -1,5 +1,5 @@
 # teste
-Repostório para testes malucos da turma da ETEC
+Repositório para testes malucos da turma da ETEC
 
 ## testando markdown
 
